@@ -1,0 +1,26 @@
+
+{
+    "name": "ERROR-X.2",
+    "description": "A whatsApp bot based on Baileysjs ",
+    "repository": "https://github.com/EMMYHENZ-TECH/ERROR-X.2",
+    "logo": "https://i.ibb.co/nBJY4Ny/IMG-20241017-WA0195-1.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "env": {
+    "SESSION_ID": {
+      "description": "your session ID here",
+      "value": "",
+      "required": true
+    }
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ]
+}
