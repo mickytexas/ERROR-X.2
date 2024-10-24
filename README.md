@@ -23,7 +23,7 @@ href="[[[[https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C](https://whatsap
 
 
   </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{ERROR-X.2}/count.svg" alt="Re-Jeong-v4:: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ERROR-X.2}/count.svg" alt="ERROR-X.2:: Visitor's Count"/></p>
 
 
   <div align="center">
