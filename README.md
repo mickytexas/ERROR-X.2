@@ -40,7 +40,7 @@ href="[[[[https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C](https://whatsap
 
 <h2 align="center">   
 
-- ***You MUST `fork` this repo before fetching pairing code. Fork this repo by tapping  [`here`](https://github.com/EMMYHENZ-TECH/ERROR-X.2/fork)***
+- ***You MUST `fork` Fork this repo by tapping  [`here`](https://github.com/EMMYHENZ-TECH/ERROR-X.2/fork)***
 
 **star✨ my repo if you like this bot🤖**
 
@@ -73,4 +73,4 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 REVENGE IS OUR..🎯🎃
 
-
+CREDITS; EMMYHENZ,REJEONG,ZY...
