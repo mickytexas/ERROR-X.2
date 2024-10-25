@@ -7,12 +7,12 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "2349125042727" //masukin no lu
+global.owner = "2348103561817" //masukin no lu
 global.namabot = "ERROR-X.2 V4"
 global.nomorbot = "27623649420" //masukin no lu
 global.namaCreator = "ERROR-X.2 "
 global.linkyt = "-"
-global.autoJoin = false
+global.autoJoin = true
 global.antilink = false
 global.versisc = '2.0.0'
 
